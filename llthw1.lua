@@ -1,2 +1,5 @@
-print("hello World")
+-- print("hello World")
 print("hi again")
+print("hi from lua")
+print('"I have a quote in front of me?')
+print("Hello", "World")
